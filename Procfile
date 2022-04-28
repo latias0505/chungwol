@@ -1,0 +1,1 @@
+worker: python 김청월봇.py
